@@ -1,0 +1,21 @@
+Disease Name
+Hypertension
+Tachycardia
+Myocardial Infarction
+Angina Pectoris
+"Diabetes Mellitus, Type 2"
+Atrial Fibrillation
+Heart Failure
+Hypotension
+Seizures
+Hyperalgesia
+Hyperglycemia
+Postoperative Complications
+Diabetic Nephropathies
+Venous Thromboembolism
+Acute Kidney Injury
+Breast Neoplasms
+Colonic Neoplasms
+Ovarian Neoplasms
+Lung Neoplasms
+Prostatic Neoplasms
